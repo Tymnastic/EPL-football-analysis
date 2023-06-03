@@ -9,8 +9,9 @@ The project utilizes a dataset from kaggle containing detailed information about
 [kaggle](https://www.kaggle.com/datasets/evangower/premier-league-2022-2023)
 
 ## limitations
-the datase is only up to match week 27
-analysis on players performances could be done because the dataset has no player data
+The datase is only up to match week 27.  
+
+Analysis on players performances could be done because the dataset has no player data.
 
 ----
 
